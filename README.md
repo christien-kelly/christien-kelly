@@ -1,6 +1,6 @@
 ## Hello! My name's Christien 👋
 
-I'm a developer that loves creating complex applications with a simple UI. Some of my larger project include network routing with GTFS data and utilizing project OSRM. 
+I'm a developer that loves creating complex applications with a simple UI. Some of my larger project include network routing with GTFS data and project OSRM. Currently working at SHARE Mobility.
 
 I am also a swimmer training to make the Barbados Olympic team <em><strong>Paris 2024</strong></em>, wish me luck!
 
