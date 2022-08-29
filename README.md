@@ -1,5 +1,3 @@
-[![itsrakesh.co](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://itsrakesh.co)
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Christien</h1>
 <h3 align="center">🌐 Software Architect ✍️ Technical Writer 🏊🏽 Competitive Swimmer</h3>
 <h4 align="center">Data Engineer at <a href="https://cardata.co">Cardata</a></h4>
