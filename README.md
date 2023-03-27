@@ -1,19 +1,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Christien</h1>
 <h3 align="center">🌐 Software Architect ✍️ Technical Writer 🏊🏽 Competitive Swimmer</h3>
-<h4 align="center">Data Engineer at <a href="https://cardata.co">Cardata</a></h4>
+<h4 align="center">Software Engineer at <a href="https://cardata.co">Cardata</a></h4>
 
-- 🌱 I’m currently learning **PHP Laravel/Lumen**
+- 🌱 I’m currently learning **React Native | Rust**
 
 - 📝 I regularly write articles on my [blog](https://christien-kelly.medium.com)
 
-- 💬 Ask me about **Data Engineering, Design, Web Development**
+- 💬 Ask me about **Software Engineering, Design, Web Development**
 
 - 📫 How to reach me **christien.kelly@gmail.com**
 
 ### 🤝 Connect with me:
 
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://itsrakesh.co) -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/christienkelly2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://christien.gatsbyjs.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christien-k-770080107/)
 
 ---
