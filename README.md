@@ -2,7 +2,7 @@
 <h3 align="center">🌐 Software Architect ✍️ Technical Writer 🏊🏽 Competitive Swimmer</h3>
 <h4 align="center">Software Engineer at <a href="https://cardata.co">Cardata</a></h4>
 
-- 🌱 I’m currently learning **React Native | Rust**
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I regularly write articles on my [blog](https://christien-kelly.medium.com)
 
