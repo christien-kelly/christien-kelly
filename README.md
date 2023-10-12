@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Christien</h1>
 <h3 align="center">🌐 Software Architect ✍️ Technical Writer 🏊🏽 Competitive Swimmer</h3>
-<h4 align="center">Software Engineer at <a href="https://cardata.co">Cardata</a></h4>
+<h4 align="center">Software Engineer at Trisidian</h4>
 
 - 🌱 I’m currently learning **React Native**
 
